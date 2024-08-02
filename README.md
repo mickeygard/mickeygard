@@ -1,7 +1,7 @@
 - Hi, I’m @mickeygard
-- I'm a new developer learning skills so I can get paid to create solutions for other people's problems. I'll be looking for full remote jobs, or job in the Denver area in about summer/fall of 2024. I have about a year until I retire from my first career and enter the tech industry so I'm learning fast and adjusting my goals as I learn more.
--  I’m starting out with HTML, CSS, and Java through Codecademy's Front End Developer career path, probably followed by Python. I'm starting projects as soon as I have each knowledge base to solidify what I learn as fast as possible.
--  I’m not looking to collaborate yet, but Im always open to ideas.
+- I'm a software developer learning skills so I can get paid to create solutions for other people's problems. I'll be looking for full remote jobs, or jobs in the Denver area in about summer/fall of 2024.
+- 've started out with Javascript, Python, HTML, CSS and Django and React.js with Tailwind and Bootstrap through Code Platoon's Full Stack Software Engineer Bootcamp, and will be getting a certification in AWS in mid september.
+-  I’m currenlty collaborating with teams in my bootcamp, but I'm always open to new ideas.
 -  How to reach me: mickeygardner85@gmail.com
 
 <!---
